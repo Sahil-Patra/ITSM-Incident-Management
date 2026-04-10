@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 Project Overview
-In modern IT environments, manual ticket triage and reactive maintenance lead to service downtime and high operational costs. This project builds an **End-to-End AI-driven ITSM Intelligence system** designed to automate ticket classification, forecast workload volumes, and proactively identify failing IT assets.
+During my internship at Rubixe- AI solutions, I was tasked with developing an AI-driven intelligence layer for a client's ITSM (IT Service Management) ecosystem. The goal was to transition the client from a reactive "break-fix" model to a proactive, data-driven operation. This project builds an **End-to-End AI-driven ITSM Intelligence system** designed to automate ticket classification, forecast workload volumes, and proactively identify failing IT assets.
 
 ### 💼 Business Impact
 *   **Reduced MTTR (Mean Time to Resolution):** By predicting P1/P2 outages at the moment of creation.
